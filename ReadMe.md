@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Clear2Go, an app for pilots<br>👯 I’m looking to collaborate on mobile app projects<br>🤝 I’m looking for help with cybersecurity contest<br>🌱 I’m currently learning cybersecurity concepts<br>💬 Ask me about mobile apps<br>⚡ Fun fact I’m a pilot 🛩️
+🔭 I’m currently working on Clear2Go, an app for pilots<br>👯 I’m looking to collaborate on mobile app projects<br>🤝 I’m looking for help with cybersecurity contest<br>🌱 I’m currently growing the cybersecurity community in my city with my team, HackTheART<br>💬 Ask me about mobile apps<br>⚡ Fun fact I’m a pilot 🛩️
 
 
 ## 🌐 Socials:
